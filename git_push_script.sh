@@ -2,5 +2,5 @@
 git add .
 echo "Enter Commit Message"
 read Commit Message
-git commit -m "$ Commit Message"
+git commit -m "Enter Commit Message"
 git push
